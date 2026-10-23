@@ -22,16 +22,11 @@ The resulting set of features retained in the signatures is returned as the cand
 Pre-compiled wheels are available for Linux (x86_64, aarch64), macOS (Intel, Apple Silicon) and Windows (x86_64), for Python 3.10–3.14. Download the one matching your system and Python version (e.g. `cp312` for Python 3.12) and install it with:
 
 ```bash
-pip install scudo_regression-<version>-<python>-<platform>.whl
+git clone https://github.com/cibio-computational-modeling-lab/Fantoni-et-al-BI-SCUDO-Regression
+cd Fantoni-et-al-BI-SCUDO-Regression
+pip install <platform>/scudo_regression-<version>-<python>-<platform>.whl
 ```
 
-### With Docker
-
-```bash
-docker build -t scudo-regression .
-```
-
----
 
 ## 📥 INPUT FORMAT
 
