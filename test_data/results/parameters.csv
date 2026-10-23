@@ -1,0 +1,15 @@
+key,value
+variable_of_interest,to_be_predicted
+logarithmic,false
+percentile,0.1
+filtering_test,Wilcoxon
+threshold_p_value,0.04118778943423801
+n1,23
+n2,25
+n_neighbors,3
+use_weighted_es,true
+cross_validation_k,10
+min_signature_length,2
+min_n,0
+max_n,150
+max_n1_n2_difference,inf
