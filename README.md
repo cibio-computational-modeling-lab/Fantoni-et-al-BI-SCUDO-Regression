@@ -1,7 +1,7 @@
 # BI-SCUDO Regression - A novel algorithm to infer clinical variables from omics datasets
 **Authors:** Giacomo Fantoni, Mario Lauria, Carlo Alberto Rossi, Roberto Bizzotto and Luca Marchetti
 
-[https://doi.org/10.64898/2026.11.17.767338](https://doi.org/10.64898/2026.11.17.767338)
+[https://www.biorxiv.org/content/10.64898/2026.11.17.767338](https://www.biorxiv.org/content/10.64898/2026.11.17.767338)
 
 This repository contains the complete Python implementation of **BI-SCUDO regression**, an extension of the SCUDO (Signature-based Clustering for Diagnostic Purposes) framework from classification to the prediction of **continuous variables**. Starting from an expression matrix (e.g. transcriptomics or proteomics) and a continuous metadata variable, the pipeline:
 
